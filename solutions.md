@@ -1,5 +1,6 @@
 # Solutions
 
+## Easy
 - [x] 13 Hello World
 - [x] 4 实现 Pick
 - [x] 7 实现 Readonly
@@ -11,14 +12,17 @@
 - [x] 268 If
 - [x] 533 Concat
 - [x] 898 Includes
-- [ ] 3057 Push
-- [ ] 3060 Unshift
-- [ ] 3312 Parameters
-- [ ] 2 获取函数返回类型
-- [ ] 3 实现 Omit
-- [ ] 8 Readonly 2
-- [ ] 9 深度 Readonly
-- [ ] 10 元组转合集
+- [x] 3057 Push
+- [x] 3060 Unshift
+- [x] 3312 Parameters
+
+## Medium
+
+- [x] 2 获取函数返回类型
+- [x] 3 实现 Omit
+- [x] 8 Readonly 2
+- [x] 9 深度 Readonly
+- [x] 10 元组转合集
 - [ ] 12 可串联构造器
 - [ ] 15 最后一个元素
 - [ ] 16 出堆
